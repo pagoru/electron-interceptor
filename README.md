@@ -3,7 +3,7 @@ This module is a simple `file` protocol interceptor for [electron](https://githu
 [![npm version](https://badge.fury.io/js/electron-interceptor.svg)](https://www.npmjs.com/package/electron-interceptor) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Installation
 
-```
+```js
 npm install electron-interceptor
 ```
 
