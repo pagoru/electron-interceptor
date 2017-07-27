@@ -5,7 +5,6 @@ This module is a simple `file` protocol interceptor for [electron](https://githu
 
 ```
 npm install electron-interceptor
-
 ```
 
 # Usage
